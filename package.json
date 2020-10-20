@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "mkdir build",
-    "say": "echo Hello World!"
+    "say": "echo Hello World!",
+    "delete": "rm -rf build"
   },
   "repository": {
     "type": "git",
